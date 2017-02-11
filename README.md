@@ -1,11 +1,23 @@
-<<<<<<< HEAD
-=======
-<a href='https://ko-fi.com/A302HW7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=f' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
->>>>>>> 296aa629739721d9d3048ad84dffd3e01933dfcd
+#URL ESCORT
 
 <a href="//imgur.com/RRh9qzz"><img src="http://imgur.com/RRh9qzz.gif" title="source: imgur.com" /></a>
 
-
+# Usage
+Step 1. Add the JitPack repository to your build file
+```groovy
+allprojects {
+        repositories {
+            ...
+            maven { url "https://jitpack.io" }
+        }
+    }
+```
+Step 2. Add the dependency
+```groovy
+dependencies {
+  compile 'com.github.IntruderShanky:URLEscort:1.0'
+ }
+ ```
 ###Usage
 
 This can be used as a custom view in messaging, chat, music, video application to preview the contents of the URL link in an application.
@@ -17,10 +29,3 @@ This repo is truely made on the inspiration of latest version of WhatsApp Androi
 ### Credits:
 1. Koushik Dutta
 2. Leonardo Cardoso
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 296aa629739721d9d3048ad84dffd3e01933dfcd
