@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<a href='https://ko-fi.com/A302HW7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=f' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+>>>>>>> 296aa629739721d9d3048ad84dffd3e01933dfcd
 
 <a href="//imgur.com/RRh9qzz"><img src="http://imgur.com/RRh9qzz.gif" title="source: imgur.com" /></a>
 
@@ -16,4 +20,7 @@ This repo is truely made on the inspiration of latest version of WhatsApp Androi
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 296aa629739721d9d3048ad84dffd3e01933dfcd

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -7,3 +8,39 @@
 /build
 /captures
 .externalNativeBuild
+=======
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# Project files
+*.iml
+.idea
+# .idea/workspace.xml
+
+# Local configuration file (sdk path, etc)
+local.properties
+keystore.properties
+
+# Windows thumbnail db
+.DS_Store
+
+# Idea non-crucial project fileS
+*.iws
+
+# Sandbox stuff
+_sandbox
+>>>>>>> 296aa629739721d9d3048ad84dffd3e01933dfcd
